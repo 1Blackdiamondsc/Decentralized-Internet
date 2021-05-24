@@ -13754,9 +13754,9 @@ min-indent@^1.0.0:
   integrity sha1-z8RcN+nsDY8KDsPdTvf3w6vjklY=
 
 minify@*:
-  version "7.0.1"
-  resolved "https://registry.yarnpkg.com/minify/-/minify-7.0.1.tgz#f368afeadcf1cd2525d18c32446112f595e951d0"
-  integrity sha512-U3CjnPKRjPu3DxZX7NsB833r2ijbw9af3fHsaChn6o7BHKvaT/zxYDQ8Q/3W7VFXGDrnkAx6XBx3ggEf5KJm7A==
+  version "7.0.2"
+  resolved "https://registry.yarnpkg.com/minify/-/minify-7.0.2.tgz#8ac33a490c907b581a6cb4970dc656bb6d59ac11"
+  integrity sha512-qWFzieSULBAKTLbTqaXY5OLFbFNuEa1b0M+piLkpgJ6pHrMyvvCw6H7WM5/d+HJIwgUCLMI0uEAAyhawAF6cbA==
   dependencies:
     clean-css "^5.0.1"
     css-b64-images "~0.2.5"
